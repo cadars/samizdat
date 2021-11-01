@@ -23,6 +23,8 @@
     box-shadow: none;
     max-height: 60vh;
   }
+  section.page,
+  section#home,
   footer {
     display: none;
   }
