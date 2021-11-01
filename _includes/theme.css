@@ -166,14 +166,12 @@ h4 {
 
 img {
   display: block;
-  width: auto;
-  height: auto;
   max-width: 100%;
+  height: auto;
   min-height: 4em;
-  max-height: 95vh;
   position: relative;
   margin: 1.8em auto;
-  box-shadow: 0 0.05em 0.2em var(--pale-color);
+  padding: 0 2ch;
 }
 
 img:after {
