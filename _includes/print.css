@@ -20,7 +20,8 @@
     break-inside: avoid;
   }
   img {
-    box-shadow: none;
+    width: auto;
+    padding: 0;
     max-height: 60vh;
   }
   section.page,
