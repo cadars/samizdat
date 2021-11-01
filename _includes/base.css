@@ -1,0 +1,27 @@
+/* Hide all sections and the ones coming after section:target  */
+section,
+section:target ~ section:last-of-type {
+  height: 0;
+  overflow: hidden;
+  user-select: none;
+}
+
+/* Show section:target and last section (TOC) by default */
+section:target,
+section:last-of-type {
+  height: auto;
+  overflow: visible;
+  user-select: auto;
+  scroll-margin-top: 999em; /* magic? */
+}
+
+/* Sorry, no focus-visible because Safari */
+section:focus {
+  outline: 0;
+}
+
+/* Disable footnote #links */
+sup a {
+  color: currentColor;
+  pointer-events: none;
+}

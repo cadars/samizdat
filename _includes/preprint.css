@@ -1,0 +1,58 @@
+/* 
+
+  In some browsers, images using the loading="lazy" attribute don't load when printing.
+  This utility adds a toggle to the top right of the page, to show all sections,
+  so you can scroll to the bottom of the document to load all the images before printing.
+
+  Add this element inside <main> and before the first <section> :
+   
+  <input id="toggle" type="checkbox">
+  
+*/
+
+@media screen {
+  
+  #toggle {
+    opacity: .3;
+    z-index: 2;
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+  }
+  
+  #toggle:hover {
+    opacity: 1;
+  }
+  
+  #toggle:checked ~ section:target {
+    scroll-margin-top: 0;
+  }
+  
+  #toggle:checked ~ section {
+    padding-bottom: calc(var(--h-margin) * 2);
+    position: relative;
+    overflow: visible;
+    height: auto;
+    user-select: auto;
+  }
+  
+  #toggle:checked ~ section + section {
+    padding-top: calc(var(--h-margin) * 2);
+  }
+  
+  #toggle:checked ~ section + section:before {
+    content: "";
+    display: block;
+    width: 100vw;
+    border-bottom: 3px solid var(--pale-color);
+    position: absolute;
+    top: 0;
+    left: calc(-1 * var(--v-margin));
+  }
+}
+
+@media print {
+  #toggle {
+    display:none;
+  }
+}
