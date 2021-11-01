@@ -8,7 +8,7 @@ by Jon Crabb
 
 *Hyperspace, ghosts, and colourful cubes — Jon Crabb on the work of Charles Howard Hinton and the cultural history of higher dimensions*.
 
-![Tesseracts](/img/notes-1.jpg){:loading="lazy" width="645" height="850"}
+![Tesseracts](./img/notes-1.jpg){:loading="lazy" width="645" height="850"}
 
 The coloured cubes — known as "Tesseracts" — as depicted in the frontispiece to Hinton's *The Fourth Dimension* (1904) - [Source](https://archive.org/stream/fourthdimension00hint#page/n7/mode/2up).
 {:class="caption"}
@@ -29,7 +29,7 @@ During the period we now call the fin de siècle, worlds collided. Ideas were be
 
 Outside of sheltered mathematical circles, the trend began rather innocuously in 1884, when Edwin A. Abbott published the satirical novella *Flatland: A Romance of Many Dimensions* under the pseudonym A. Square. In the fine tradition of English satire, he creates an alternative world as a sort of nonsense arena to lampoon the social structures of Victorian England. In this two-dimensional world, different classes are made up of different polygons, and the laws concerning sides and angles that maintain that hierarchy are pushed to absurd proportions. Initially, the work was only moderately popular, but it introduced thought experiments on how to visualise higher dimensions to the general public. It also paved the ground for a much more esoteric thinker who would have much more far-reaching effects with his own mystical brand of higher mathematics.
 
-![Cover of the first edition of Flatland (1884)](/img/notes-2.jpg){:loading="lazy" width="719" height="848"}
+![Cover of the first edition of Flatland (1884)](./img/notes-2.jpg){:loading="lazy" width="719" height="848"}
 
 Cover of the first edition of *Flatland* (1884) - Source: City of London School Archive.
 {:class="caption"}
@@ -40,7 +40,7 @@ Hinton begins his book by briefly relating the history of higher dimensions and 
 
 > It is related of him that he was challenged by thirteen officers of his garrison, a thing not unlikely to happen considering how differently he thought from everyone else. He fought them all in succession – making it his only condition that he should be allowed to play on his violin for an interval between meeting each opponent. He disarmed or wounded all his antagonists. It can be easily imagined that a temperament such as his was not one congenial to his military superiors. He was retired in 1833.
 
-![Janos Bolyai: Appendix](/img/notes-3.jpg){:loading="lazy" width="694" height="380"}
+![Janos Bolyai: Appendix](./img/notes-3.jpg){:loading="lazy" width="694" height="380"}
 
 Janos Bolyai: Appendix. Shelfmark: 545.091. Table of Figures.
 {:class="caption"}
@@ -53,14 +53,14 @@ Mathematicians have definitely lost their flair. The notion of duelling with vio
 
 Well Ivan, to quote Hinton, “it is indeed strange, the manner in which we must begin to think about the higher world”. Hinton's solution was a series of coloured cubes that, when mentally assembled in sequence, could be used to visualise a hypercube in the fourth dimension of hyperspace. He provides illustrations and gives instructions on how to make these cubes and uses the word “tesseract” to describe the four-dimensional object.
 
-![Diagram from Hinton’s The Fourth Dimension](/img/notes-4.jpg){:loading="lazy" width="706" height="850"}
+![Diagram from Hinton’s The Fourth Dimension](./img/notes-4.jpg){:loading="lazy" width="706" height="850"}
 
 Diagram from Hinton’s <cite>The Fourth Dimension</cite> (1904) - [Source](https://archive.org/details/fourthdimensio00hint).
 {:class="caption"}
 
 The term “tesseract”, still used today, might be Hinton’s most obvious legacy, but the genesis of the word is slightly cloudy. He first used it in an 1888 book called *A New Era of Thought* and initially used the spelling tessaract. In Greek, “τεσσάρα”, meaning “four”, transliterates to “tessara” more accurately than “tessera”, and -act likely comes from “ακτίνες” meaning "rays"; so Hinton’s use suggests the four rays from each vertex exhibited in a hypercube and neatly encodes the idea “four” into his four-dimensional polytope. However, in Latin, “tessera” can also mean “cube”, which is a plausible starting point for the new word. As is sometimes the case, there seems to be some confusion over the Greek or Latin etymology, and we’ve ended up with a bastardization. To confuse matters further, by 1904 Hinton was mostly using “tesseract” — I say mostly because the copies of his books I’ve seen aren’t entirely consistent with the spelling, in all likelihood due to a mere oversight in the proof-reading. Regardless, the later spelling won acceptance while the early version died with its first appearance.
 
-![Diagram from Hinton’s The Fourth Dimension](/img/notes-5.jpg){:loading="lazy" width="850" height="589"}
+![Diagram from Hinton’s The Fourth Dimension](./img/notes-5.jpg){:loading="lazy" width="850" height="589"}
 
 Diagram from Hinton’s <cite>The Fourth Dimension</cite> (1904) - [Source](https://archive.org/details/fourthdimensio00hint).
 {:class="caption"}
@@ -81,7 +81,7 @@ Hinton’s ideas gradually pervaded the cultural milieu over the next thirty yea
 
 Whilst most suited to the visual arts, the fourth dimension also made inroads into literature, with [Apollinaire and his calligrammes](https://publicdomainreview.org/collection/apollinaire-s-calligrammes-1918) arguably a manifestation. Gertrude Stein with her strikingly visual, mentally disorienting poetry was also accused of writing under its influence, something she refuted in an interview with the Atlantic Monthly in 1935: “Somebody has said that I myself am striving for a fourth dimension in literature. I am striving for nothing of the sort and I am not striving at all but only gradually growing and becoming steadily more aware of the way things can be felt and known in words.” If nothing else, the refutation at least indicates the idea’s long-lasting presence in artistic circles.
 
-![A page from Apollinaire's Calligrammes](/img/notes-6.jpg){:loading="lazy" width="530" height="850"}
+![A page from Apollinaire's Calligrammes](./img/notes-6.jpg){:loading="lazy" width="530" height="850"}
 
 A page from Apollinaire's <cite>Calligrammes; poèmes de la paix et de la guerre<cite>, 1913-1916 (1918) - [Source](https://archive.org/details/calligrammespo00apol).
 {:class="caption"}
@@ -90,14 +90,14 @@ Some critics have since tried to back-date higher dimensions in literature to Le
 
 If anything, the connection between Carroll and hyperspace was the other way round, and the symbolic language employed by Carroll — mirrors, changing proportions, nonsense, topsy-turvy inversions and so on — was picked up by later artists and writers to help prop up their own conceptions of the fourth dimension, which, as we can see, were starting to become a bit of a free for all. Marcel Duchamp, for instance, coined the rather wonderful phrase “Mirrorical return” in a note about the fourth dimension and the [Large Glass](https://en.wikipedia.org/wiki/File:Duchamp_LargeGlass.jpg).
 
-![Illustration by Peter Newell](/img/notes-7.jpg){:loading="lazy" width=533 height=850}
+![Illustration by Peter Newell](./img/notes-7.jpg){:loading="lazy" width=533 height=850}
 
 Illustration by Peter Newell from a 1902 edition of <cite>Through the Looking-Glass and What Alice Found There</cite> - [Source](https://archive.org/stream/throughlookinggl00carr4#page/n42/mode/1up).
 {:class="caption"}
 
 In the same period that Hinton’s ideas of the fourth dimension were gaining currency among the intellectuals of Europe our “secret sense, our sixth sense” was identified by neurophysiologist Charles Sherrington in 1906. Proprioception, as he called it, is our ability to locate where a body part is when our eyes are closed — in other words, our ability to perceive ourselves in space. And yet the sixth sense means something completely different to us nowadays, associated with another fin-de-siècle obsession: mediumship, the ability to perceive things in the same space but in different dimensions. It is worth noting that in those days, scientists – real, respected, working scientists — apparently looked towards spiritualist mediums for experimental evidence. At the same time, Hinton’s cubes were used in séances as a method of glimpsing the fourth dimension (and hopefully a departed soul or two). Hinton himself published one of his very first articles on the fourth dimension with the sensational subtitle “Ghosts Explained”. In defence of the era’s more eccentric ideas, though, so much was explained or invented in so very few years, that it must have seemed only a matter of time before life’s greatest mysteries were finally solved. In any case, the craze over a mystical fourth dimension began to fade while the sensible sixth sense of proprioception just never really caught on.
 
-![A spirit photograph by William Hope](/img/notes-8.jpg){:loading="lazy" width="533" height="850"}
+![A spirit photograph by William Hope](./img/notes-8.jpg){:loading="lazy" width="533" height="850"}
 
 A [spirit photograph](https://publicdomainreview.org/collection/the-spirit-photographs-of-william-hope) by William Hope, ca. 1920 - [Source](https://www.flickr.com/photos/nationalmediamuseum/2781042126/in/album-72157606849278823/).
 {:class="caption"}
