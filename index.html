@@ -55,7 +55,7 @@
     <!-- All pages -->
     {% for page in site.pages %}
     {% capture id %}{{ page.title | slugify }}{% endcapture %}
-    <section tabindex="0" role="document" aria-label="{{ page.title }}" id="{{id}}">
+    <section tabindex="0" role="document" aria-label="{{ page.title }}" id="{{id}}" class="page">
       {{ page.content }}
     </section>
     {% endfor %}
