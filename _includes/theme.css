@@ -10,11 +10,11 @@ html {
   font-size: 62.5%; /* 1rem = 10px */
 
   /* Layout */
-  --max-width: 66rem;
+  --max-width: 68rem;
   --h-margin: calc(0.5em + 2vw);
   --v-margin: calc(0.25em + 3.5vw);
 
-  --font-size: clamp(1.7rem, 3.5vw, 2.1rem); /* minimum, desired, maximum */
+  --font-size: clamp(1.75rem, 3.5vw, 2.1rem); /* minimum, desired, maximum */
   --font-small: 0.9em;
   --line-height: 1.5;
 
