@@ -376,9 +376,10 @@ kbd {
 }
 
 kbd {
-  box-shadow: 0 0.5px 1px;
-  border-radius: 2px;
+  border-radius: 4px;
   padding: 0.1em 0.25em;
+  border-right: 1px solid var(--pale-color);
+  border-bottom: 1px solid var(--pale-color);
 }
 
 pre code {
