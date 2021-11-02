@@ -242,7 +242,7 @@ ul.posts li a {
 
 ul.posts li a:after {
   position: absolute;
-  bottom: 0.375em;
+  bottom: 0.25em;
   padding-left: 1ch;
   content: " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
   ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
