@@ -4,6 +4,8 @@ section:target ~ section:last-of-type {
   height: 0;
   overflow: hidden;
   user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
 }
 
 /* Show section:target and last section (TOC) by default */
@@ -12,6 +14,9 @@ section:last-of-type {
   height: auto;
   overflow: visible;
   user-select: auto;
+  -webkit-user-select: auto;
+  -moz-user-select: auto;
+  
   scroll-margin-top: 999em; /* magic? */
 }
 
