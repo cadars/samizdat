@@ -6,6 +6,7 @@ section:target ~ section:last-of-type {
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
+  pointer-events: none;
 }
 
 /* Show section:target and last section (TOC) by default */
@@ -16,6 +17,7 @@ section:last-of-type {
   user-select: auto;
   -webkit-user-select: auto;
   -moz-user-select: auto;
+  pointer-events: auto;
   
   scroll-margin-top: 999em; /* magic? */
 }
