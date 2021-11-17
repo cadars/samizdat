@@ -18,7 +18,7 @@ section:last-of-type {
   -webkit-user-select: auto;
   -moz-user-select: auto;
   pointer-events: auto;
-  scroll-margin-top: 999em; /* magic? */
+  scroll-margin-top: 100vh; /* magic! */
 }
 
 /* Sorry, no focus-visible because Safari */
