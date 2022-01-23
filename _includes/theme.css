@@ -341,7 +341,7 @@ hr {
 
 abbr[title] {
   cursor: help;
-  text-decoration-color: var(--light-color);
+  text-decoration-color: var(--pale-color);
 }
 
 @media (any-pointer: coarse) {
