@@ -15,7 +15,7 @@ html {
   --v-margin: calc(0.25em + 3.5vw);
 
   --font-size: clamp(1.75rem, 3.5vw, 2.05rem); /* minimum, desired, maximum */
-  --font-small: 0.9em;
+  --font-small: 0.875em;
   --line-height: 1.5;
 
   /* Colors */
