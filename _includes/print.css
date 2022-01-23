@@ -9,8 +9,7 @@
     max-width: none;
   }
   section {
-    height: auto;
-    overflow: visible;
+    display: block!important;
     page-break-after: always;
     page-break-inside: avoid;
     break-inside: avoid;

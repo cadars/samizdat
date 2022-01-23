@@ -8,11 +8,6 @@ by Jon Crabb
 
 *Hyperspace, ghosts, and colourful cubes — Jon Crabb on the work of Charles Howard Hinton and the cultural history of higher dimensions*.
 
-![Tesseracts](./img/notes-1.jpg){:loading="lazy" width="645" height="850"}
-
-The coloured cubes — known as "Tesseracts" — as depicted in the frontispiece to Hinton's *The Fourth Dimension* (1904) - [Source](https://archive.org/stream/fourthdimension00hint#page/n7/mode/2up).
-{:class="caption"}
-
 ---
 
 > Men of broader intellect know that there is no sharp distinction betwixt the real and the unreal…
@@ -26,6 +21,11 @@ La Belle Époque, a beautiful term for a Beautiful Age, as Light and Understandi
 > — H.P. Lovecraft, <cite>The White Ship</cite> (1920)
 
 During the period we now call the fin de siècle, worlds collided. Ideas were being killed off as much as being born. And in a sort of Hegelian logic of thesis/antithesis/synthesis, the most interesting ones arose as the offspring of wildly different parents. In particular, the last gasp of Victorian spirituality infused cutting-edge science with a certain sense of old-school mysticism. Theosophy was all the rage; Huysmans dragged Satan into modern Paris; and eccentric poets and scholars met in the British Museum Reading Room under the aegis of the Golden Dawn for a cup of tea and a spot of demonology. As a result of all this, certain commonly-accepted scientific terms we use today came out of quite weird and wonderful ideas being developed at the turn of the century. Such is the case with space, which fascinated mathematicians, philosophers, and artists with its unfathomable possibilities.
+
+![Tesseracts](./img/notes-1.jpg){:loading="lazy" width="645" height="850"}
+
+The coloured cubes — known as "Tesseracts" — as depicted in the frontispiece to Hinton's *The Fourth Dimension* (1904) - [Source](https://archive.org/stream/fourthdimension00hint#page/n7/mode/2up).
+{:class="caption"}
 
 Outside of sheltered mathematical circles, the trend began rather innocuously in 1884, when Edwin A. Abbott published the satirical novella *Flatland: A Romance of Many Dimensions* under the pseudonym A. Square. In the fine tradition of English satire, he creates an alternative world as a sort of nonsense arena to lampoon the social structures of Victorian England. In this two-dimensional world, different classes are made up of different polygons, and the laws concerning sides and angles that maintain that hierarchy are pushed to absurd proportions. Initially, the work was only moderately popular, but it introduced thought experiments on how to visualise higher dimensions to the general public. It also paved the ground for a much more esoteric thinker who would have much more far-reaching effects with his own mystical brand of higher mathematics.
 
