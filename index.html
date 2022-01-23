@@ -88,6 +88,9 @@
     <!-- Pages links -->
     <nav>
       <ul class="pages">
+        <li>
+          <a href="feed.xml">RSS</a>
+        </li>
         {% for page in site.pages %}
         {% capture id %}{{ page.title | slugify }}{% endcapture %}
         <li>
