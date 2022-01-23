@@ -1,8 +1,7 @@
 ## Publication settings
 
-title: "The Title"
-description: "The Description"
-keywords: "a, whole, bunch, of, keywords"
+title: "Samizdat"
+description: "A nice web document"
 date_format: "%b %-d, %Y" # for the table of contents
 favicon: "img/favicon.ico"
 
