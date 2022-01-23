@@ -167,7 +167,7 @@ img {
   height: auto;
   min-height: 4em;
   position: relative;
-  margin: var(--h-margin) auto;
+  margin: calc(var(--h-margin) * 1.25) auto var(--h-margin);
   padding: 0 2ch;
 }
 
