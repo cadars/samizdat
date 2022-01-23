@@ -40,7 +40,7 @@ Hinton begins his book by briefly relating the history of higher dimensions and 
 
 > It is related of him that he was challenged by thirteen officers of his garrison, a thing not unlikely to happen considering how differently he thought from everyone else. He fought them all in succession – making it his only condition that he should be allowed to play on his violin for an interval between meeting each opponent. He disarmed or wounded all his antagonists. It can be easily imagined that a temperament such as his was not one congenial to his military superiors. He was retired in 1833.
 
-![Janos Bolyai: Appendix](./img/notes-3.jpg){:loading="lazy" width="694" height="380"}
+![Janos Bolyai: Appendix](./img/notes-3.jpg){:loading="lazy" width="800" height="504"}
 
 Janos Bolyai: Appendix. Shelfmark: 545.091. Table of Figures.
 {:class="caption"}
