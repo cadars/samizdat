@@ -10,7 +10,7 @@ html {
   font-size: 62.5%; /* 1rem = 10px */
 
   /* Layout */
-  --max-width: 65rem;
+  --max-width: 64rem;
   --h-margin: calc(0.5em + 2vw);
   --v-margin: calc(0.25em + 3.5vw);
 
@@ -419,7 +419,7 @@ td {
 .footnotes {
   font-size: var(--font-small);
   display: inline-block;
-  margin-top: calc(var(--h-margin) * 2);
+  margin-top: var(--h-margin);
   padding-top: calc(var(--h-margin) / 2);
   border-top: 1px dotted var(--pale-color);
 }
