@@ -313,10 +313,11 @@ p {
 }
 
 blockquote {
+  font-size: .9em;
+  font-family:var(--sans),var(--emoji);
   font-variant-numeric: oldstyle-nums;
-  padding: 0.4em 0;
-  padding-inline-start: 2ch;
-  color: var(--light-color);
+  padding: .7em 0;
+  padding-inline: 2ch;
 }
 
 blockquote > * + * {
@@ -374,7 +375,7 @@ kbd {
 
 kbd {
   border-radius: 4px;
-  padding: 0.1em 0.25em;
+  padding: 0.1em 0.3em;
   border-right: 1px solid var(--pale-color);
   border-bottom: 1px solid var(--pale-color);
 }
