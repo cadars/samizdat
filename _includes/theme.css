@@ -167,7 +167,7 @@ img {
   height: auto;
   min-height: 4em;
   position: relative;
-  margin: calc(var(--h-margin) * 1.25) auto var(--h-margin);
+  margin: 1.8em auto;
   padding: 0 2ch;
 }
 
@@ -179,9 +179,9 @@ img:after {
   position: absolute;
   z-index: 1;
   top: 0;
+  right: 0;
+  bottom: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
   font-size: var(--font-small);
   font-style: italic;
   text-align: center;
@@ -194,7 +194,7 @@ p.caption {
   color: var(--light-color);
   text-align: center;
   font-size: var(--font-small);
-  margin: calc(-1 * var(--h-margin) / 1.5) 0 calc(var(--h-margin) * 1.5);
+  margin: -1.2em auto 2em;
   padding-inline: 1em;
 }
 
