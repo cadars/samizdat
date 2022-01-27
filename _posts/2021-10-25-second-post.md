@@ -2,7 +2,7 @@
 title: "Markup examples"
 ---
 
-This is a paragraph, **bold**, *italic*, <mark>highlight</mark>, a [link](http://example.com), an [internal link](#first-post), this is ~~not~~  `code`, HTML is short for HyperText Markup Language, press <kbd>Cmd</kbd> + <kbd>P</kbd> and this is a missing image:
+This is a paragraph, **bold**, *italic*, <mark>highlight</mark>, a [link](http://example.com), an [internal link](#first-post), this is ~~not~~  `code`, HTML is short for HyperText Markup Language, press <kbd>Cmd</kbd> <kbd>P</kbd> and this is a missing image:
  
 ![This image is missing](img/image-missing.png "This is the missing image title."){:loading="lazy" width="800" height="500"}
 
