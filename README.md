@@ -1,3 +1,6 @@
+| Samizdat | Самиздат |
+|-|-|
+
 Publish [a single HTML file](https://cadars.github.io/samizdat) (and an RSS feed) with Github Pages.
 
 - Choose “Use this template” and enable Github Pages in the project settings
