@@ -3,7 +3,7 @@ title: "About"
 ---
 
 What is this?
-:  A template for publishing with Github's default static site generator, Jekyll. It produces a single HTML file out of a collection of Markdown documents, and an RSS feed.
+:  A template for publishing with Github's default static site generator, Jekyll. It produces a single HTML file out of Markdown documents, and an RSS feed.
 
 How to use it?
 :  On [Github](https://github.com/cadars/samizdat), choose “Use this template”, enable Github Pages in the project settings, edit the publication details in `_config.yml`, and write in the `_posts` and `_pages` folders.
